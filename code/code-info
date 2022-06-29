@@ -1,1 +1,19 @@
+#OUTLINE
 
+1. Reading the Data set.
+This section presents the steps to read the data set about American Universities.
+
+2. Data Preparation: Cleaning and Formatting.
+Missing, invalid, and inconsistent values are addressed in this step. Finally, a code for changing the format of column names was also created.
+
+3. Exploratory Data Analysis (EDA) and Visualization. Quantitative and qualitative analysis (Asking and Answering Questions).
+This step presents global-useful information about the different columns of the data set. Some initial examinations were performed as a way of beginning finding patterns, creating hypotheses, and corroborating early assumptions. Later, deeper investigations were depicted as part of reaching the project’s goal.
+
+4. Inferences and Conclusions.
+This section presents, in a concise manner, the most significant insights.
+
+5. Future Work.
+This section reveals some compelling features or ideas to elaborate on or to consider for future works.
+
+6. References.
+All the sources that have been helpful to develop this project are exposed in this section.
